@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Veeresh-S-P
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋
 
-<!---
-Veeresh-S-P/Veeresh-S-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Veeresh S P, a software developer currently focused on learning Node Backend development. I have a solid understanding of HTML, CSS, JavaScript, Node.js, and MongoDB. I'm particularly interested in server-side programming and infrastructure management. 
+
+## Skills
+- JavaScript
+- Node.js
+- MongoDB
+- HTML
+- CSS
+
+## Contact me
+- LinkedIn: https://www.linkedin.com/in/veeresh-s-p-7090b9249
+- Email: veereshsp1234@gmail.com
+
+Thanks for visiting my profile!
