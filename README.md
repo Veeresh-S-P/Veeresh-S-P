@@ -4,7 +4,8 @@ I'm Veeresh S P, a software developer currently focused on learning Node Backend
 
 ## Skills
 - JavaScript
-- Node.js
+- Node.Js
+- Express.Js
 - MongoDB
 - HTML
 - CSS
