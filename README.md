@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Aaditya jha  <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
+<h1 align="center">Hi , I'm Veeresh S P  <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Node.js+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about HTML, CSS, JavaScript, Redis, Node, MongoDB, Express,Backend
 
-- 📫 How to reach me adityakumarbh46@gmail.com
+- 📫 How to reach me veereshsp1234@gmail.com
 
 - 🔭 Visit my <a href="https://aadi23456.github.io/"><strong>portfolio</strong></a>
 
@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aaditya-jha-967b72215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya-jha-967b72215" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/veeresh-s-p-7090b9249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Veeresh-S-P" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its_aadi267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_aadi267" height="30" width="40" /></a>
 </p>
 
@@ -79,15 +79,15 @@
 ## 📊 My Github Stats
 
 <p align="center">
-    <a href="https://github.com/AAdi23456/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aaditya jha`s streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AAdi23456&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Veeresh-S-P/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Veeresh-S-P streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Veeresh-S-P&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 
   <br/>
-    <a href="https://github.com/AAdi23456/github-readme-stats"><img alt="Aaditya jha`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=AAdi23456&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AAdi23456/github-readme-stats"><img alt="Aaditya jha`s  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAdi23456&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Veeresh-S-P/github-readme-stats"><img alt="Aaditya jha`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Veeresh-S-P&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Veeresh-S-P/github-readme-stats"><img alt="Aaditya jha`s  Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeresh-S-P&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
