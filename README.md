@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Veeresh Shivabasayya Prabhayyanavarmath
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gagan BN
 ================================================================================================================================
 
 Web Developer
@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Gagan BN](https://gravity-gagan.github.io/)
-* ✉️  You can contact me at [veereshsp1234@gmail.com](mailto:veereshsp1234@gmail.com)
+* ✉️  You can contact me at [gaganbn1999@gmail.com](mailto:gaganbn1999@gmail.com)
 
 ### Skills
 
@@ -29,20 +29,19 @@ Web Developer
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/Veeresh-S-P" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="www.linkedin.com/in/
-veeresh-s-p-7090b9249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/GRAviTY-GAGAN" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://gagan-bn.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gagan-bn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Veeresh-S-P"><img src="https://github-readme-stats.vercel.app/api?username=Veeresh-S-P&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
+<a href="http://www.github.com/GRAviTY-GAGAN"><img src="https://github-readme-stats.vercel.app/api?username=GRAviTY-GAGAN&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="GRAviTY-GAGAN's GitHub stats" /></a>
 
-<a href="http://www.github.com/Veeresh-S-P"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Veeresh-S-P&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/GRAviTY-GAGAN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GRAviTY-GAGAN&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Veeresh-S-P"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Veeresh-S-P&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/GRAviTY-GAGAN"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GRAviTY-GAGAN&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Veeresh-S-P" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeresh-S-P&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/GRAviTY-GAGAN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRAviTY-GAGAN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
