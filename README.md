@@ -20,7 +20,7 @@
 
 - 📫 How to reach me veereshsp1234@gmail.com
 
-- 🔭 Visit my <a href="https://aadi23456.github.io/"><strong>portfolio</strong></a>
+- 🔭 Visit my <a href="https://veereshsp.netlify.app"><strong>portfolio</strong></a>
 
 - ⚡ Fun fact I love to read and enjoy going on road trips
 
