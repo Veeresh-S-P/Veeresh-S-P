@@ -31,11 +31,7 @@
 <br/>
 
 <h3 align="left">Connect with me on:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/veeresh-s-p-7090b9249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Veeresh-S-P/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Veeresh-S-P" height="30" width="40" /></a>
-<a href="https://www.instagram.com/its_aadi267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Veeresh-S-P/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Veeresh-S-P" height="30" width="40" /></a>
-</p>
-
+<p align="left"> <a href="https://www.github.com/Veeresh-S-P" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://gagan-bn.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/veeresh-s-p-7090b9249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <br/>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
