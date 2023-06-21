@@ -1,4 +1,4 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://veereshsp.netlify.app)
+[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://veeresh-s-p.github.io/)
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Veeresh S P</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align='right' alt='coding' width='410px' src='https://www.lambdatest.com/resources/images/news24.gif'/>
@@ -12,7 +12,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning **Backend Development**
 <!--   - 👨‍💻 All of my projects are available at [https://rb.gy/yjf3y](https://rb.gy/yjf3y) -->
-- 👨‍💻 All of my projects are available at [https://veereshsp.netlify.app](https://veereshsp.netlify.app)
+- 👨‍💻 All of my projects are available at [https://veeresh-s-p.github.io/](https://veeresh-s-p.github.io/)
 
 - 💬 Ask me about **JavaScript & Nodejs**
 
@@ -24,7 +24,7 @@
   <a href="www.linkedin.com/in/veeresh-s-p-7090b9249/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://veereshsp.netlify.app">
+  <a href="https://veeresh-s-p.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/1CykUSfUV69JZPRHUPLFx5PCpy7oU0q3A/view?usp=sharing">
